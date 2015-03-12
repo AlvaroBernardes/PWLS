@@ -10,7 +10,11 @@
 	<section>
 		<p>Conteudo adadsasdsa</p>
 		<p>Cancro autista </p>
+<<<<<<< HEAD
 	</section>
+=======
+	</section
+>>>>>>> parent of 0e4bc33... bugfix
 	<?php include_once 'footer.php'; ?>
 </body>
 </html>
