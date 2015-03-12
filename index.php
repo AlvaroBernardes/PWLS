@@ -10,7 +10,7 @@
 	<section>
 		<p>Conteudo adadsasdsa</p>
 		<p>Cancro autista </p>
-	</section
+	</sectionZ
 	<?php include_once 'footer.php'; ?>
 </body>
 </html>
