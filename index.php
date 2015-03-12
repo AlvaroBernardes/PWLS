@@ -8,7 +8,7 @@
 <body>
 	<?php include_once 'topo.php'; ?>
 	<section>
-		<p>Conteudo Index</p>
+		<p>Conteudo adadsasdsa</p>
 	</section>
 	<?php include_once 'footer.php'; ?>
 </body>
